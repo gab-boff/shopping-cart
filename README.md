@@ -1,9 +1,6 @@
 <header>
   <h1>PROJETO SHOPPING CART</h1>  
     <p>Desenvolvido em HTML, CSS e JavaScript. O projeto foi individual, nele estavamos aprendendo sobre os Fundamentos do Desenvolvimento Web.</p>
-    <br>
-    <br>
-    <a href="https://github.com/tryber/sd-011-project-shopping-cart/tree/gab-boff-project-shopping-cart">BRANCH ORIGINAL</a>
 </header>
 
 ##
